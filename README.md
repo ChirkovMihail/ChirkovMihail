@@ -1,10 +1,20 @@
 ## Hello there 👋
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt)" width="100"/>
+  <img src="https://github.com/user-attachments/assets/504a7107-29c4-4c72-b9be-db00d0e6fcaf" width="200"/>
 </div>
 
-<!--
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div> 
+
+https://codeforces.com/profile/ChirkovM
+
+<!--![3108d6d7b6564338ed077d6c6a3201caF1j9rdqpzbCcEDHi-0](https://github.com/user-attachments/assets/504a7107-29c4-4c72-b9be-db00d0e6fcaf)
+
 **ChirkovMihail/ChirkovMihail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
