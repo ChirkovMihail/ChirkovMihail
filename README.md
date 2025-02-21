@@ -1,15 +1,34 @@
-## Hello there 👋
+## Hello there 👋, I'm Mikhail Chirkov
 
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/504a7107-29c4-4c72-b9be-db00d0e6fcaf" width="200"/>
 </div>
 
+### About me : 
+
+I'm finishing 3rd year of Bachelor's degree in math and computer science, and : 
+- close to algorithms and know how to apply them
+- using Clear code patterns
+- common with teamwork and different communication
+- open to the new experience and challenges
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+</div>
+
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div> 
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-original.svg" title="sdl" alt="sdl" width="40" height="40"/>&nbsp;
+</div> 
+
+MsSql
+
+Embarcadero RAD Studio
 
 https://codeforces.com/profile/ChirkovM
 
