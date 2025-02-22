@@ -9,6 +9,7 @@
 I'm finishing 3rd year of Bachelor's degree in math and computer science, and : 
 - close to algorithms and know how to apply them
 - using Clear code patterns
+- in competitve programming. My codeforces profile : https://codeforces.com/profile/ChirkovM
 - common with teamwork and different communication
 - open to the new experience and challenges
 
@@ -30,7 +31,14 @@ MsSql
 
 Embarcadero RAD Studio
 
-https://codeforces.com/profile/ChirkovM
+### I'm currently learning : 
+- Computational Geometry
+- Optimizations
+- Multithreading C++
+
+### How to reach me : 
+- telegram : https://t.me/ChirkovMl
+- email : mlhailchirk@gmail.com
 
 <!--![3108d6d7b6564338ed077d6c6a3201caF1j9rdqpzbCcEDHi-0](https://github.com/user-attachments/assets/504a7107-29c4-4c72-b9be-db00d0e6fcaf)
 
